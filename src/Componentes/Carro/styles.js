@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from "styled-components";
 
 export const CarroContainer = styled.section`
   width: 200px;
@@ -13,4 +13,4 @@ export const CarroContainer = styled.section`
   ul {
     list-style: none;
   }
-`
+`;
